@@ -1,0 +1,1245 @@
+{
+  "homepages": [],
+  "source_base_path": "/Users/sara.omeilia/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.BaselibNetworkInterface.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.BaselibNetworkInterface.html",
+          "hash": "OOIFm6YY7yX1bWu1kQNqS5eiobCi3Wz5PhX1OvUNT3A="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.BaselibNetworkParameter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.BaselibNetworkParameter.html",
+          "hash": "H+iOdUZ8k1TYXGmwJQe37NMQmm2u1r+yfro/XEEy/pY="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.BaselibNetworkParameterExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.BaselibNetworkParameterExtensions.html",
+          "hash": "Q5XLnpmXS/STOw/b7C08ptBlW2baBOJqhDQ+yDFia8Y="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.CommonNetworkParametersExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.CommonNetworkParametersExtensions.html",
+          "hash": "Loa6WhGp8BQ3Cng8HhB3ZOQUgVvFKvNUp8QsD8PwbB0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.DataStreamReader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.DataStreamReader.html",
+          "hash": "p4hUWWkWxvZty7giuiII0DLAiVN5xVhEPQUFUPDCg6c="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.DataStreamWriter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.DataStreamWriter.html",
+          "hash": "eTTyjXy1Ym/wu0J9P+40ML2MORTUP1d8MZhUWFsebQ8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Error.DisconnectReason.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Error.DisconnectReason.html",
+          "hash": "aon4O7/4BuDvF6V0Oy8Q3yCvMCGCCmPml586exeZQdk="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Error.StatusCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Error.StatusCode.html",
+          "hash": "zgH3en6KwZ3CjlAj3Y30wqWEy7eVE5pH4zG+nuvQtyM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Error.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Error.html",
+          "hash": "ZXsEaHkY1yCkdvVDNII++6zAYY14alejy8zBiuInHfU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.FragmentationPipelineStage.FragContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.FragmentationPipelineStage.FragContext.html",
+          "hash": "g9H/3LpCmxuE6ok+UAqmkBdEnK3VcgijvPeCxk8tZ9o="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.FragmentationPipelineStage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.FragmentationPipelineStage.html",
+          "hash": "r+FRa79+SWNn03LHO1abvkcmQ3Ip4ncVOdm2N3BygDY="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.INetworkInterface.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.INetworkInterface.html",
+          "hash": "KI89y5BMAQuwjLN1JE/qsJmB+fKhImfpc/OnFS9k99U="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.INetworkParameter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.INetworkParameter.html",
+          "hash": "f3WHvYmJUdTVoDUpKmSNTNzAluNJHzcP6S18ZZRoJBE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.INetworkPipelineStage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.INetworkPipelineStage.html",
+          "hash": "iDl82VYvWIvpFbZMy6ZuyG/BV9aiajsqolUChE4JHYs="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.IPCNetworkInterface.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.IPCNetworkInterface.html",
+          "hash": "MtBPle8cm/0eY32B/3i16eTkSIXzX94iruhctU8RkgM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.InboundRecvBuffer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.InboundRecvBuffer.html",
+          "hash": "hOCO4Xo9F7LFTEqDOu/pMxE/JPGI/ve+VyuUkdpDUFA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.InboundSendBuffer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.InboundSendBuffer.html",
+          "hash": "4SCav/j/r832CkjZagxgDdvgTRpxNChaNblCtof1PR8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NetworkCompressionModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NetworkCompressionModel.html",
+          "hash": "l0xv/VStCwFHrq9k3oTNMm09jcNqzUL47E0Y5f0uZcM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NetworkConfigParameter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NetworkConfigParameter.html",
+          "hash": "kcIh4UJnTfl9RmVB1c/5kxoNKUuOQC7kI8+BXV2ZGf4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NetworkConnection.State.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NetworkConnection.State.html",
+          "hash": "twysWAanKky+s4JHcjYmwdr1xK/akz4x2ANgsgHHpGI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NetworkConnection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NetworkConnection.html",
+          "hash": "o/PVy7w2woQ+MWlLjahp828k1db33YXgvpGWL/VjfOQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NetworkDataStreamParameter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NetworkDataStreamParameter.html",
+          "hash": "k3SwIPtKywePQorii8TJ3zcmMNkka9Dm5kw/xbfk3O4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NetworkDriver.Concurrent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NetworkDriver.Concurrent.html",
+          "hash": "ohAvb1fsehk78JDgEk3HkXWGfzyfnmmzl5tdJaEmHHA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NetworkDriver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NetworkDriver.html",
+          "hash": "QkyeK635X8RjKym16NVmx9L4pOsO1PtdD2CgF6rJ/x4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NetworkEndPoint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NetworkEndPoint.html",
+          "hash": "ZQrHzE+beVpVYKOrdQuktbrdT/r/hn0bu2A3BKkXEW4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NetworkEvent.Type.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NetworkEvent.Type.html",
+          "hash": "orQ2JJ9hmI7WWaPkI2JK9QFK2RznrV4uNha1WJEw/vI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NetworkEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NetworkEvent.html",
+          "hash": "Vrgynd6BKOwqjKzkWv81pKrIiYPI7r63zBQzHSRvrNc="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NetworkFamily.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NetworkFamily.html",
+          "hash": "z8Ew5qkql6/d1FiHGkgIXYLRNcNfcypsdpRK2Xwekao="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NetworkInterfaceEndPoint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NetworkInterfaceEndPoint.html",
+          "hash": "ZkvOuVUXXBMu2s3exTFNAqoDpkIIexO8UlCH7tRdDB4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NetworkInterfaceSendHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NetworkInterfaceSendHandle.html",
+          "hash": "42iwkOaAf0HkpWx7JQzsVnLDFiG03n9X0c3pz3etyRk="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NetworkPacketReceiver.AppendPacketMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NetworkPacketReceiver.AppendPacketMode.html",
+          "hash": "Bv2cR2zNu300pxUG2c32OAklOzjDfirCAgYFWjk3AqQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NetworkPacketReceiver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NetworkPacketReceiver.html",
+          "hash": "h4DdorYWxiutqaUSVB9+8XR44m9TdN1XYybV/PQS/Ew="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NetworkParameterConstants.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NetworkParameterConstants.html",
+          "hash": "qM9Pb2CH9t9AIGwkom4MtfMcvacNCPQBCc8vyjjdigs="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NetworkPipeline.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NetworkPipeline.html",
+          "hash": "zQh+byTmd35AKJGVGlGgaTA85ERw2yEP+lRNEp4XUkA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NetworkPipelineContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NetworkPipelineContext.html",
+          "hash": "WT4s/ssJx4Cl2eqMuMRGRkSQxiOtNSnEiBefxG8q1Nc="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NetworkPipelineParametersExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NetworkPipelineParametersExtensions.html",
+          "hash": "0yy25UWs5XokSrSFA325sGQ0RcBRsVChrLoGWrh21p0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NetworkPipelineParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NetworkPipelineParams.html",
+          "hash": "DJoHbj0Xq5RfPm4iBZa1UT/qelZedP0kc+vXI/NiV+s="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NetworkPipelineStage.InitializeConnectionDelegate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NetworkPipelineStage.InitializeConnectionDelegate.html",
+          "hash": "wGGFN0I5pb1SfM4A6tzTexVW6R4OvE8GM7E3A1gtfeQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NetworkPipelineStage.ReceiveDelegate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NetworkPipelineStage.ReceiveDelegate.html",
+          "hash": "749HsVdvqcS3MKnqtSIEnySnkhQLLT3YwIf0YMb71kg="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NetworkPipelineStage.Requests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NetworkPipelineStage.Requests.html",
+          "hash": "UtTiJ/p3l8hlv8Ml+aVOHMS5JwK/aQTohyjNFSTjRmQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NetworkPipelineStage.SendDelegate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NetworkPipelineStage.SendDelegate.html",
+          "hash": "8aDZrkDVM8v5NxCflkKawRrSBd8SViI7yMIMyrnUakU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NetworkPipelineStage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NetworkPipelineStage.html",
+          "hash": "jM0nx0/RIOUJ8UpLGZCfNH5ONm9Ud5+qwtFbHFEnwOs="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NetworkPipelineStageCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NetworkPipelineStageCollection.html",
+          "hash": "HaLXO2IiKS7axnEVo5NpGETJgXkHlGt7ZI85bT20xPI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NetworkPipelineStageId.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NetworkPipelineStageId.html",
+          "hash": "LRjt6ugOHR0i3bOmiA/E/dU5vThVFeqX8z//BSG/Ar4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NetworkSendInterface.AbortSendMessageDelegate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NetworkSendInterface.AbortSendMessageDelegate.html",
+          "hash": "7v4a9rqcsdEphn5x/frWxJngAihc723/Lk6cKl42ztA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NetworkSendInterface.BeginSendMessageDelegate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NetworkSendInterface.BeginSendMessageDelegate.html",
+          "hash": "GRHyXWVnIgh2Xt9FXWXqweergVPZ5/Iq1lUG6MqxMDA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NetworkSendInterface.EndSendMessageDelegate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NetworkSendInterface.EndSendMessageDelegate.html",
+          "hash": "WNy6BRKhL7wBcL9LLHpszkrzqINPxmpHCMSbMaSz2Ig="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NetworkSendInterface.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NetworkSendInterface.html",
+          "hash": "Eyzd+orSypiW1dpvEkzirs7cqurybqKWpubmI4DUmMU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NetworkSendQueueHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NetworkSendQueueHandle.html",
+          "hash": "MvuafqJ+rRxWIZcqJLiJBO/U7pJKwtrrRwsiq3H7Dso="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NetworkSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NetworkSettings.html",
+          "hash": "pNDk4yhrdorjChDbPcLSdbRd9KcdcAfaLg5LXvjFbgI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.NullPipelineStage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.NullPipelineStage.html",
+          "hash": "kX0gIDXNwMcEc/Amz3On0rUbIee+cuzSBbOTb/rrEjE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.QueuedSendMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.QueuedSendMessage.html",
+          "hash": "vTpTSQBekittJxmQ6r5g7rLnLn8F5fjJigH5imH2nPk="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Relay.RelayAllocationId.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Relay.RelayAllocationId.html",
+          "hash": "mm4tmP4cccpQ81ThG4oE7bFkybm1EAmsKK/RDuIUwM4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Relay.RelayConnectionData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Relay.RelayConnectionData.html",
+          "hash": "crZGvWD5cCm2xsa5vhSc3VPuWc4YZUBGO46pXz1Pqpc="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Relay.RelayHMACKey.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Relay.RelayHMACKey.html",
+          "hash": "69CSwkH9WqbcYfxOHJjdhZ2kw5qsdBur/ytC42BHv6Y="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Relay.RelayNetworkParameter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Relay.RelayNetworkParameter.html",
+          "hash": "BMJxnuxB7ygugiIL6+u/IUBYMuZbTiCynZ+bBZhUxRg="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Relay.RelayParameterExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Relay.RelayParameterExtensions.html",
+          "hash": "z7MoYivwOect9QlI3Rx5YYAqdKmfWyvuOZsu/bhN+ps="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Relay.RelayServerData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Relay.RelayServerData.html",
+          "hash": "l90oR5EaiPKRXcyBiWN5TmPQn4Tm25Sd2U6G/hRvXDA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Relay.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Relay.html",
+          "hash": "CWyAvbej87cVX4phqLro22OWtYPzbUYRokqVeUnvnKw="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.ReliableSequencedPipelineStage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.ReliableSequencedPipelineStage.html",
+          "hash": "ieBvOA4ZzUP1O0rkJQPCeuhOOHQyCDcNa1hZrnbIMvQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.SendHandleFlags.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.SendHandleFlags.html",
+          "hash": "g4X5/Kz/n5tGZFhf7Ogyj5wTiZHQ1x22ZNd3dARyFqM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.SimulatorPipelineStage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.SimulatorPipelineStage.html",
+          "hash": "JC7IOnU8S8yRbr7ZtiGA/aoMzJ4inEmsUqv0d6WW8Is="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.SimulatorPipelineStageInSend.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.SimulatorPipelineStageInSend.html",
+          "hash": "xIc19altocaTH3VxY1txscv7xQB4yKMhJ/SLxiFqFXg="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.TransportFunctionPointer-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.TransportFunctionPointer-1.html",
+          "hash": "4jDTgHTJrayFNQyfi6NuTzlF56sRGWQQR3ewdVHZvW4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.UnreliableSequencedPipelineStage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.UnreliableSequencedPipelineStage.html",
+          "hash": "lGU+onrFSW8Tjm1PtigYl+vw1b1KRFY8OI0Pt0OXejk="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Utilities.FixedStringHexExt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Utilities.FixedStringHexExt.html",
+          "hash": "XsHHHYOW/7a0nUY1M/nZrfORlAqHNUY22gHwIVrLnbs="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Utilities.FragmentationStageParameterExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Utilities.FragmentationStageParameterExtensions.html",
+          "hash": "c17qbZv/AmZxFBWsMp9EEAFPvItNWSpCA/428yoKts0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Utilities.FragmentationUtility.Parameters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Utilities.FragmentationUtility.Parameters.html",
+          "hash": "UXuX2bjnj/RwGHltYZdspo0jNpFIpm3m839D3F241Lk="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Utilities.FragmentationUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Utilities.FragmentationUtility.html",
+          "hash": "PnDhqVy5KpIa4dNsOKi/0jubEQjoUfgg14oaXOQINCE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Utilities.NativeListExt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Utilities.NativeListExt.html",
+          "hash": "Dxp2r5tW8mUahbeN4sWcSlrfGQmHIVbdySw3T8ybHWU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Utilities.RandomHelpers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Utilities.RandomHelpers.html",
+          "hash": "fOSbWvCocGFuVqSp5KRDllaM2Ybiz+q0x9ZjsG+nHNA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Utilities.ReliableStageParameterExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Utilities.ReliableStageParameterExtensions.html",
+          "hash": "sXcaxB+W9GvxETXc9RD7kAosAMqsGfpHw4S1y4cKaaY="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Utilities.ReliableUtility.Context.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Utilities.ReliableUtility.Context.html",
+          "hash": "sJqiWa+vTLx9Qaq6IBKay8IDt/iDtei/W7f0mpmcHZk="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Utilities.ReliableUtility.ErrorCodes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Utilities.ReliableUtility.ErrorCodes.html",
+          "hash": "JCsCwojd+VhDfbDGMM1v4DsDlDX+enpH9X6vjBjnejs="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Utilities.ReliableUtility.Packet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Utilities.ReliableUtility.Packet.html",
+          "hash": "5fiGV45DmlyhwBBryEEK2S592+jaGc6PVi837Ko4JHE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Utilities.ReliableUtility.PacketHeader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Utilities.ReliableUtility.PacketHeader.html",
+          "hash": "xEEbMSP/f+AoskDc4QKJPSJIKNrZdQyMBb5LDmbK0Zk="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Utilities.ReliableUtility.PacketInformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Utilities.ReliableUtility.PacketInformation.html",
+          "hash": "9SH+XVwUd+MKFHLIzZ6Dd0bwcOZ+mx+nHRTDseDrGl0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Utilities.ReliableUtility.PacketTimers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Utilities.ReliableUtility.PacketTimers.html",
+          "hash": "8uAy0vLmO2fJ023/zMp8zKt5uhjcEeKgTGijKsn86zg="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Utilities.ReliableUtility.PacketType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Utilities.ReliableUtility.PacketType.html",
+          "hash": "6jIEwHOui/iVPVnVwFsjuihUwDk2ogzPfjUIZxqf91w="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Utilities.ReliableUtility.ParameterConstants.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Utilities.ReliableUtility.ParameterConstants.html",
+          "hash": "oECxPJc76v/6ac3RTpuoYCzPXKIyX9WDvebj6dWp2yw="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Utilities.ReliableUtility.Parameters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Utilities.ReliableUtility.Parameters.html",
+          "hash": "3daUxC9GWhgR1W6SbJBMDN8jLtvMH3/z8O4iwoO/DIk="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Utilities.ReliableUtility.RTTInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Utilities.ReliableUtility.RTTInfo.html",
+          "hash": "3ojw2VZ0mXQzSPmzji34tyLHm6chXe/CA+Vk2q5bA9E="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Utilities.ReliableUtility.SharedContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Utilities.ReliableUtility.SharedContext.html",
+          "hash": "Luo50ITkXKtP4Or52fjyttN1P9rZZU9osrpVkPOBD9A="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Utilities.ReliableUtility.Statistics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Utilities.ReliableUtility.Statistics.html",
+          "hash": "CbmDk7hCkuBxIJU5tdbGJ2DN+xHRuvunpkXTqRh+CVg="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Utilities.ReliableUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Utilities.ReliableUtility.html",
+          "hash": "Kw/7E/O1HdZ5uAHTyeggF+KQAGAZTMM01NbtvOtqcjQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Utilities.SequenceBufferContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Utilities.SequenceBufferContext.html",
+          "hash": "R629lDsU9l2/lYfYJBob7Nh00dssL7CBihqT8Gt6hLQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Utilities.SequenceHelpers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Utilities.SequenceHelpers.html",
+          "hash": "K2viXgFyGUs8wWi2LJAN66vTQT+HUzJlT/ScKyR0LI0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Utilities.SimulatorStageParameterExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Utilities.SimulatorStageParameterExtensions.html",
+          "hash": "s2eM4SEQjxQn42p9mYyh1XLnrNsXfI9zhnlzXNs0cUY="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Utilities.SimulatorUtility.Context.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Utilities.SimulatorUtility.Context.html",
+          "hash": "2yMYLmqsHy1g6OYyDIw4UR7ZPSLkXdSADd1vFC0U+kQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Utilities.SimulatorUtility.DelayedPacket.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Utilities.SimulatorUtility.DelayedPacket.html",
+          "hash": "kSracRpncsJrPlJcFgpS8loZkXittB68ETE/TzkCspU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Utilities.SimulatorUtility.Parameters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Utilities.SimulatorUtility.Parameters.html",
+          "hash": "BDhfUYxrAGfs51Cbt9ntI5xQwFtwBWiXZnCCof3vHfs="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Utilities.SimulatorUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Utilities.SimulatorUtility.html",
+          "hash": "81Xh/K0csoLIYXjDVU1ozUZqFtbG+3vtAaARaFV1YTI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.Utilities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.Utilities.html",
+          "hash": "BQJsLdWJgivmYDDDRAayOc946uBgiILMZ+uq9tOKCVE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.Networking.Transport.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.Networking.Transport.html",
+          "hash": "fWkx84+qjxrAi53/9fGT4HN+PmRXoqUcGjP17RstO8I="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "WhGOSzJsiSRvpxFMfuZPlCKI9bFUcW8f067K+pIkJNk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "aOy2sep6UZV26oOkupcIBXuDgHQsCVz7R3i+I6vFl6Y="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "BlPxk5mtl2kgfcZUgkEguqiSAR/EUyUTT4EdebwkQvs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "J2Ucrckdx4dg4IZOx6kwfAACTTn8pqVwhGnYicz3XjE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "SIGSHIA/3BvpDI/kB4EBi8CwXBPquKKAPqeF9Wh7wx8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 2,
+          "skipped_file_count": 2
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 94,
+          "skipped_file_count": 94
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
